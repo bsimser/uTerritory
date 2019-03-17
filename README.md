@@ -2,6 +2,8 @@
 
 uTerritory is a complete remake of the classic game Enemy Territory using the Unity game engine.
 
+![Original game screenshot](https://ue3s31vhmez1o77f81aycos1-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Screen-Wolf-ET-002.jpg)
+
 ## License
 
 This software is free software and licensed under the [MIT License](https://github.com/bsimser/uterritory/blob/master/LICENSE). 
