@@ -4,7 +4,7 @@ uTerritory is a complete remake of the classic game Enemy Territory using the Un
 
 ## License
 
-This software is free software and licensed under the [MIT License](https://github.com/bsimser/uterritory/blob/master/LICENSE.md). 
+This software is free software and licensed under the [MIT License](https://github.com/bsimser/uterritory/blob/master/LICENSE). 
 
 ## Git Branches
 
